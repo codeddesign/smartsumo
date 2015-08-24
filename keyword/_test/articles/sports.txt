@@ -1,0 +1,33 @@
+%%% The Cities With Too Few Sports Teams
+^^^ huffingtonpost.com
+&&& What if the Denver Broncos became the Bridgeport Broncos? Or LeBron's Cavaliers played their home games in Riverside, California? Denver and Cleveland fans: calm down -- this isn't going to happen. But, from at least one perspective, it wouldn't be totally crazy if it did.
+There are a lot of reasons certain sports teams play in certain cities. While market size is important, it's far from the only consideration. Take Boston, for example. The Bruins, Celtics, Red Sox and Patriots have been playing in Beantown for an average of 82 years. The Patriots are the new guys in town, having just arrived in 1960. Even if there were more demand for one of those teams in another market, it's not likely a sports commissioner would try to uproot one of Boston's storied franchises.
+When it comes to expansion and relocation, politics and personal agendas come into play. The willingness of a given city to fund a shiny new stadium can make or break an expansion deal. Likewise, a team's owner may favor a city with a smaller market if it means staying close to home and showing off the new toy to all their friends. Not everyone can fly 1,000 miles to attend every game, as LA Clippers owner Steve Ballmer does.
+In short, the landscape of American professional sports has been shaped by far more than sound financial logic. The result is messy and in some cases just plain weird. (Ever been to Green Bay?) So what would the sports world look like if each city had the "right" number of teams?
+To determine the optimal number of sports teams in U.S. cities, we looked at data on population and mean household income for each of America's largest 100 metro areas. This reflects both the size of a given market and the amount of income after taxes the people in that market have to spend on tickets, gear and (generally outrageously expensive) stadium concessions.
+Using that data, we developed a model to predict the number of "big-four" men's sports franchises1 in U.S. metro areas. Specifically, we ran a linear least-squares regression of the number of franchises on the population and mean household income.
+
+%%% Usain Bolt defeats Justin Gatlin to defend 100-meter world title
+^^^ si.com
+&&& Usain Bolt will head into the 2016 Summer Olympics with the title of '15 world champion after defeating American Justin Gatlin with a 9.79-second victory in the men's 100-meter final at the IAAF World Championships in Beijing. Gatlin took second in 9.80. NCAA stars Trayvon Bromell of USA and Andre De Grasse of Canada tied for bronze in 9.911.
+Bolt has won three of the last four world-championship titles in the 100-meter dash. He is the third man after Carl Lewis (1983, '87 and '91) and Maurice Greene (1997, '99 and 2001) to win three world-championship titles.
+Bolt's reaction time of .159 seconds was faster than Gatlin's .165 seconds. Gatlin appeared to have the race won with about 20 meters remaining before his form fell apart and Bolt capitalized.
+"Everyone wants to win," Gatlin said after the race. "I came out here and got nipped at the line by the great Usain."
+An American has finished second in each of the last four world championships.
+Bolt extended his longest winning streak by days, which dates back to June 2013. In that span of time, Bolt won gold medals in the 100-meter and 200-meter dash at the 2013 IAAF World Championships but missed most of the '14 campaign with a foot injury. Bolt scratched from a few meets this July after suffering a blocked sacroiliac joint injury.
+Gatlin was handed his first loss since Sept. 6, 2013. The American lost to Bolt in the 100-meter final at the 2013 world championships in Moscow, but defeated the Jamaican star in their previous meeting at the Rome Diamond League Meeting that June.
+
+%%% Cards fan 16 times in loss; Carpenter ejected
+^^^ stltoday.com
+&&& Seven runners allowed by baseball's best bullpen to score in just one inning. Or 16 strikeouts by Cardinals hitters. Choose your poison.
+Both were unpalatable Saturday night for the Cardinals at sold-out Petco Park as a strong outing by Carlos Martinez was spoiled by a San Diego seventh inning which raged out of control and the Padres stormed off to an 8-0 victory.
+The Padres, the only team in the National League with a winning record against the Cardinals, have taken four of six from them with only Sunday's game remaining.
+San Diego has won five straight overall and seven of eight. The Cardinals' lead over second-place Pittsburgh in the National League Central has shriveled to 3 1/2 games.
+Manager Mike Matheny, asked which magic number was worse - 7 or 16 - was in no mood to try to decide.
+"Neither (is) something we have in our game plan to help us win," said Matheny. "Both are working against us and, once again, one of those innings that kind of blew up on us."
+For the second time in two nights, the Padres scored four or more runs in an inning against the Cardinals.
+Six of the Cardinals' strikeouts came with men in scoring position. The most critical may have been Matt Carpenter's 100th of the season and one which ended his night.
+With the Cardinals down 1-0 to Ian Kennedy, who would strike out 10 in six innings, Tommy Pham, who had three hits, doubled with one out in the fifth and Martinez, enjoying a multi-hit game, beat out a grounder behind second with Pham stopping at third.
+Nothing for his last 16, Carpenter was looking at least to tie the score but was called out by young umpire Chris Segal on an 0-2 pitch ball that appeared outside. Outside so much that catcher Derek Norris didn't really even try to frame it.
+Carpenter barked at minor league call-up Segal and quickly was ejected. Matheny arrived in time before anything else happened, holding an agitated Carpenter away from Segal while Matheny continued to plead the cause.
+Kennedy then fanned Stephen Piscotty, who would strike out three times.

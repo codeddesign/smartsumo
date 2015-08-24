@@ -1,0 +1,311 @@
+
+body {
+	margin: 0;
+	background: #1D1E23;
+	font-family: 'Raleway', sans-serif;
+	font-weight: 400;
+}
+
+#bodywrap {
+	width: 734px;
+	margin: 0 auto;
+}
+
+#articleswrap {
+	max-width: 734px;
+	width: auto;
+	margin: 0 auto;
+	padding: 0 20px;
+	overflow: hidden;
+	margin-bottom: 50px;
+}
+
+#logo {
+	text-align: center;
+	color: #FFFFFF;
+	font-size: 14px;
+	margin-top: 23px;
+	margin-bottom: 35px;
+}
+
+#subtitle {
+	font-size: 15px;
+	color: #EB603F;
+	font-weight: 600;
+	width: 100%;
+	text-align: center;
+	margin-top: 75px;
+}
+
+#sumoimage {
+	background: url('images/sumoimage.png');
+	width: 97px;
+	height: 114px;
+	margin-right: -52px;
+    margin-top: -90px;
+    position: absolute;
+    margin-left: 184px;
+}
+
+#sumoimagetitle {
+	text-align: center;;
+	font-size: 23px;
+	color: #EB603F;
+	font-weight: 400;
+	width: 100%;
+	margin-top: 110px;
+}
+
+#sumoheadtitle {
+	text-align: center;
+	font-size: 33px;
+	color: #FFFFFF;
+	font-weight: 300;
+	margin-top: 30px;
+	width: 100%;
+}
+
+#sumosubhead {
+	text-align: center;
+	width: 100%;
+	color: #777777;
+	font-size: 13px;
+	margin-top: 20px;
+	margin-bottom: 78px;
+	font-weight: 300;
+}
+
+#getstarted {
+	background-color: #9C6BE1;
+	width: 216px;
+	height: 56px;
+	text-align: center;
+	line-height: 56px;
+	color: #FFFFFF;
+	font-size: 14px;
+	font-weight: 600;
+	-moz-box-shadow: 0px 3px 0px #67439D;
+	-webkit-box-shadow: 0px 3px 0px #67439D;
+	box-shadow: 0px 3px 0px #67439D;
+	margin: 0 auto;
+	cursor: pointer;
+}
+
+#rulestitle {
+	width: 100%;
+	text-align: center;
+	color: #FFFFFF;
+	font-size: 18px;
+	margin-top: 78px;
+	margin-bottom: 16px;
+}
+
+ul#rules {
+	margin: 0;
+	padding: 0;
+}
+
+ul#rules li {
+	text-align: center;
+	font-size: 12px;
+	color: #EDEDED;
+	list-style-type: none;
+	line-height: 18px;
+	font-weight: 300;
+	letter-spacing: 0.6px;
+}
+
+footer {
+	width: 100%;
+	margin-top: 20px;
+	margin-bottom: 15px;
+	height: 40px;
+}
+
+article {
+	width:90%;
+	margin: 0 auto;
+	margin-top: 50px;
+}
+
+article ul {
+	margin: 0;
+	padding: 0;
+	width: 100%;
+}
+
+article ul li {
+	width: 100%;
+	list-style-type: none;
+	padding: 26px 40px;
+    margin-left: -40px;
+    border: 1px solid #1D1E23;
+	border-bottom: 0;
+	margin-bottom: 2px;
+	cursor: pointer;
+}
+
+article ul li:hover {
+	border: 1px solid #6B7088;
+	border-bottom: 0;
+	-moz-box-shadow: 0 3px 0 #B07AFC;
+	-webkit-box-shadow: 0 3px 0 #B07AFC;
+	box-shadow: 0 3px 0 #B07AFC;
+}
+
+.listarticle-title {
+	width: 100%;
+	clear: both;
+	font-size: 25px;
+	font-weight: 400;
+	color: #FFFFFF;
+}
+
+.listarticle-location {
+	width: 100%;
+	clear: both;
+	font-weight: 300;
+	font-size: 14px;
+	color: #CCCCCC;
+	margin: 10px 0;
+}
+
+.listarticle-excerpt {
+	width: 100%;
+	clear: both;
+	font-size: 14px;
+	color: #878787;
+	line-height: 19px;
+    letter-spacing: 0.5px;
+}
+
+#subtitle-think {
+	font-size: 15px;
+    color: #F9ED8B;
+    font-weight: 600;
+    width: 100%;
+    text-align: center;
+    margin-top: 75px;
+}
+
+#subtitle-topic {
+	font-size: 15px;
+    color: #F9ED8B;
+    font-weight: 600;
+    width: 100%;
+    text-align: center;
+    margin-top: 1px;
+}
+
+article ul#page {
+	margin: 0;
+	padding: 0;
+	width: 100%;
+}
+
+article ul#page li {
+	width: 100%;
+	list-style-type: none;
+	padding: 20px 30px;
+    margin-left: -40px;
+    border: 1px solid #444444;
+    border-bottom: 1px solid #444444;
+	margin-bottom: 2px;
+}
+
+#article-overlay {
+	position: absolute;
+	width: 736px;
+	height: 100%;
+	background: rgba(29, 30, 35, 0.85);
+	margin-left: -40px;
+}
+
+#overlaybg {
+	width: 434px;
+	background: #FFFFFF;
+	height: 300px;
+	margin-top: 90px;
+	margin-left: 154px;
+	float: left;
+}
+
+#overlaywrap {
+	max-width: 380px;
+	margin: 0 auto;
+}
+
+#overlay-title {
+	text-align: center;
+	background: #73D42A;
+	padding: 12px 0;
+	width: 100%;
+	color: #FFFFFF;
+	font-size: 19px;
+	font-weight: 600;
+	float: left;
+	letter-spacing: 0.6px;
+	margin-top: 30px;
+}
+
+#overlay-titlesub {
+	width: 100%;
+	text-align: center;
+	margin-top: 18px;
+	color: #212121;
+	font-size: 15px;
+	font-weight: 600;
+	clear: both;
+	float: left;
+}
+
+#overlay-subname {
+	text-align: center;
+	color: #BBBBBB;
+	margin-top: 10px;
+	font-size: 12px;
+	float: left;
+	width: 100%;
+}
+
+form {
+	margin-top: 20px;
+	width: 376px;
+	margin-left: 28px;
+	float: left;
+}
+
+form input {
+	width: 346px;
+	height: 45px;
+	background: #EEEEEE;
+	float: left;
+	padding: 0 15px;
+	color: #999999;
+	border: none;
+	margin-bottom: 10px;
+	font-size: 14px;
+	font-weight: 300;
+}
+
+form submit {
+	width: 376px;
+	height: 45px;
+	text-align: center;
+	color: #FFFFFF;
+	font-size: 16px;
+	background-color: #D43930;
+	float: left;
+	line-height: 45px;
+	cursor: pointer;
+}
+
+#thinkingsumo {
+	background: url('images/thinkingsumo.png');
+	width: 97px;
+	height: 141px;
+	position: absolute;
+	z-index: 9999;
+	margin-left: 321px;
+    margin-top: -39px;
+}

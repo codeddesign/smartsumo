@@ -1,0 +1,50 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+        "http://www.w3.org/TR/html4/loose.dtd">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE8"/>
+    <title>I like Chipotle</title>
+    <link href="style.css" rel="stylesheet" type="text/css">
+
+    <script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
+    <script type="text/javascript" src="js/app.js"></script>
+    <script>
+	    $(document).ready(function(){
+			$('#pagearticle-button').click(function(){
+				parent.history.back();
+				return false;
+			});
+		});
+    </script>
+    <link href='http://fonts.googleapis.com/css?family=Raleway:400,600,700' rel='stylesheet' type='text/css'>
+</head>
+<body>
+
+<div id="articleswrap">
+    <div id="logo">SmartSumo</div>
+    <div id="subtitle-think">sumo likes to think.</div>
+    <div id="subtitle-topic">99% sure that you like <span class="interestedIn">news</span></div>
+    <article>
+        <div id="article-overlay" style="display:none;">
+            <div id="thinkingsumo"></div>
+            <div id="overlaybg">
+                <div id="overlaywrap">
+                    <div id="overlay-title">Want more <span class="interestedIn">news</span>?</div>
+                    <div id="overlay-titlesub">GET THE LATEST NEWS <br>STRAIGHT TO YOUR INBOX</div>
+                    <div id="overlay-subname">Hand-picked by our local experts.</div>
+                </div>
+                <form>
+                    <input id="pagearticle-input" placeholder="just click submit to return...">
+                    <submit id="pagearticle-button">Click it to submit it</submit>
+                </form>
+            </div>
+        </div>
+        <ul id="page">
+            <li>Please wait..</li>
+        </ul>
+    </article>
+</div>
+
+</body>
+</html>
